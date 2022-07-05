@@ -1,0 +1,17 @@
+package strings.stringStringBuilder;
+
+public class Ex1 {
+    public static void main(String[] args) {
+        String a = "    If the class name    consists of several  words, they are run together (that is, you don’t use underscores to     separate the names), and the first letter of each embedded word is capitalized    ";
+        int count = 0, max = 0;
+        for (int i = 0; i < a.length(); i++) {
+            if (a.charAt(i) == ' ')
+                count++;
+            else count = 0;
+            if (count > max)
+                max = count;
+        }
+
+        System.out.println("Max spaces: " + max);
+    }
+}

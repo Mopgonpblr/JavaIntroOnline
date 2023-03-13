@@ -1,0 +1,2 @@
+Gold Pile|100
+Gold Goblet|150

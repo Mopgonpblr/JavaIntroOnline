@@ -1,0 +1,14 @@
+Kalasy pad siarpom tvajim|Uladzimir Karatkevic|500|PAPER
+Pride and Prejudice|Jane Austen|300|PAPER
+In Search of Lost Time|Marcel Proust|200|ELECTRONIC
+Ulysses|James Joyce|100|PAPER
+Don Quixote|Miguel de Cervantes|150|ELECTRONIC
+One Hundred Years of Solitude|Gabriel Garcia Marquez|250|PAPER
+The Great Gatsby|F. Scott Fitzgerald|500|PAPER
+Moby Dick|Herman Melville|300|ELECTRONIC
+War and Peace|Leo Tolstoy|800|PAPER
+Hamlet|William Shakespeare|400|PAPER
+The Odyssey|Homer|100|ELECTRONIC
+Madame Bovary|Gustave Flaubert|170|PAPER
+The Divine Comedy|Dante Alighieri|250|PAPER
+Lolita|Vladimir Nabokov|299|ELECTRONIC
